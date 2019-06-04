@@ -78,8 +78,6 @@ Sim.
 
 Quanto mais tempo você demorar, mais críticos seremos na sua avaliação =]
 
-Esperamos que você finalize em 2 ou 3 dias. Cuidado para não acabar reinventando a roda.
-
 #### Banco de Dados Relacional ou NoSQL?
 
 Você pode escolher qualquer uma delas. Não queremos te influenciar, mas optar por MySQL ou NoSQL seria uma boa :)
