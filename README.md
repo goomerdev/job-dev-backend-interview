@@ -12,7 +12,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 
 - **Nome do Projeto:** Goomer Lista Rango
 - **Objetivo do Projeto:** Criar uma API RESTful capaz de gerenciar os restaurantes e os produtos do seu cardápio.
-- **Tecnologia:** Node.js com banco de dados relacional ou NoSQL.
+- **Tecnologia:** Node.js com banco de dados relacional.
 - **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para joao.arcala@goomer.com.br e paula.jacob@goomer.com.br informando o link do repositório.
 
 ### Desafio
@@ -26,7 +26,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
     - Listar todos os produtos de um restautante
     - Criar um produto de um restaurante
     - Alterar um produto de um restaurante
-    - Exlcuir um produto de um restaurante
+    - Excluir um produto de um restaurante
 
 - O cadastro do restaurante precisa ter os seguintes campos:
     - Foto do restaurante
@@ -72,15 +72,15 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 
 #### Posso utilizar frameworks/bibliotecas?
 
-Sim.
+Você pode usar bibliotecas como Express, mas queremos que a solução de arquitetura seja sua, portanto não use frameworks que impõem uma arquitetura específica.
 
 #### Quanto tempo eu tenho ?
 
 Quanto mais tempo você demorar, mais críticos seremos na sua avaliação =]
 
-#### Banco de Dados Relacional ou NoSQL?
+#### Qual banco de Dados devo usar?
 
-Você pode escolher qualquer uma delas. Não queremos te influenciar, mas optar por PostgreSQL ou NoSQL seria uma boa :)
+Escolha entre MySQL e PostgreSQL. **Não use ORM**.
 
 ### Happy coding 
 
