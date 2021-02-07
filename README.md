@@ -6,14 +6,14 @@ Você provavelmente já está participando do nosso processo seletivo, mas se vo
 
 Não é esperado que todas as pessoas consigam realizar esse desafio por completo, já que é destinado a todos os níveis de carreira.
 
-Você será avaliado pela sua capacidade de escrever um código simples, de fácil manutenção, e pela quantidade de funcionalidades que você entregar.
+A avaliação será baseada na sua capacidade de escrever um código simples, de fácil manutenção, e pela quantidade de funcionalidades que você entregar.
 
 ### Instruções
 
 - **Nome do Projeto:** Goomer Lista Rango
 - **Objetivo do Projeto:** Criar uma API RESTful capaz de gerenciar os restaurantes e os produtos do seu cardápio.
 - **Tecnologia:** Node.js com banco de dados relacional.
-- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para joao.arcala@goomer.com.br e paula.jacob@goomer.com.br informando o link do repositório.
+- **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e responda e-mail recebido com link do repositório. Caso você resolveu fazer o teste por conta própria pode enviar para selecao.tech@goomer.com.br.
 
 ### Desafio
 
@@ -51,7 +51,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, de fác
 
 ### O que nós vamos avaliar
 
-- Você será avaliado(a) pela qualidade do código, legibilidade e pela quantidade de funcionalidades implementadas.
+- Vamos avaliar a qualidade do código, legibilidade e a quantidade de funcionalidades implementadas.
 - Você é livre para tomar as decisões técnicas com as quais você se sente mais confortável. Apenas esteja pronto(a) para explicar as razões que fundamentaram suas escolhas =]
 - Inclua um arquivo *README* que possua:
   - desafios/problemas com os quais você se deparou durante a execução do projeto.
