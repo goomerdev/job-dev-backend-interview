@@ -67,6 +67,7 @@ A avaliação será baseada na sua capacidade de escrever um código simples, de
 - O design/estrutura do código da aplicação deve ser *production ready*.
 - Tenha em mente os conceitos de *SOLID, KISS, YAGNI e DRY*.
 - Use boas práticas de programação.
+- Considere que não sabemos nada sobre os seus conhecimentos, então quanto mais você mostrar e o quão mais descritiva for sua documentação, melhor =]
 
 ### FAQ
 
@@ -80,7 +81,12 @@ Quanto mais tempo você demorar, mais críticos seremos na sua avaliação =]
 
 #### Qual banco de Dados devo usar?
 
-Escolha entre MySQL e PostgreSQL. **Não use ORM**.
+Escolha entre MySQL e PostgreSQL. 
+
+#### Posso usar um ORM?
+
+O uso de ORM é permitido apenas para **estabelecer a conexão com o banco de dados.** No entanto, para podermos avaliar os seus conhecimentos em SQL pedimos que **não use ORM nas consultas ao banco.** As bibliotecas normalmente possuem métodos que permitem consultas diretamente em SQL (raw queries) mesmo através do ORM.
+
 
 ### Happy coding 
 
